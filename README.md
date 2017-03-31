@@ -1,4 +1,4 @@
 # hello-world
 hello world repository,
 
-why are we doing this
+re-doing tutorial to recap what i've learnt
